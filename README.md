@@ -1,13 +1,13 @@
 Projected Sea Level Rise in Boston, Massachusetts - 2100
 --
 
-Overview:
+Overview
 -
 
 This project visualizes the potential impacts of rising sea levels on Boston, Massachusetts, by the year 2100. The map illustrates how sea level rise could affect the city's coastal areas, infrastructure, and communities. By presenting multiple sea level rise scenarios, this project aims to inform and engage urban planners, local government officials, environmental organizations, and the general public.
 
-Audience:
-
+Audience
+-
 The primary audience for this map includes:
 - Urban planners
 - Local government officials
